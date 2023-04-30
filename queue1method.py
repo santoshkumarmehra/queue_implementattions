@@ -1,3 +1,8 @@
+'''
+here is, i'm adding the element from the right side to list and 
+removing the element from the the left side. (Right-Left)
+'''
+
 queue = []
 
 def enqueue():
