@@ -33,4 +33,46 @@ while True:
     else:
         print("select correct choice")
 
+        
+        
+        
+        
+#output
+'''
+how many itmes you want to add in queue: 3
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 1
+enter the element = 10
+10 is added to the queue
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 1
+enter the element = 20
+20 is added to the queue
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 1
+enter the element = 30
+30 is added to the queue
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 1
+queue is full !!
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 3
+[10, 20, 30]
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 2
+remove element: 10
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 3
+[20, 30]
+select the operation 1.add 2.remove 3.show 4.quit
+enter your choice: 4
+
+'''
+        
+        
+
+        
+        
+        
+
 
